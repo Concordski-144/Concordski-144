@@ -1,6 +1,6 @@
 - I write bad dumb code that rarely works
 - Undergrad at the University of Toronto
-- Currently learning Python
+- Currently learning Python and Java (I prefer Python)
 - I like video games (who doesn't?)
 
 <!---
